@@ -217,12 +217,19 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Python虚拟环境
+# 屏蔽Python虚拟环境（解决你所有警告的关键）
+backend/venv/
 venv/
+# Python缓存文件
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-# 缓存、日志
+# 向量数据库缓存
+chroma_db/
+# 日志、临时文件
 *.log
 *.tmp
+# IDE配置文件夹
+.idea/
+.vscode/
