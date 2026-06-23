@@ -1,0 +1,15 @@
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+chroma_db/
+*.log
+*.tmp
+.idea/
+.vscode/
+
+# 前端依赖包
+frontend/node_modules/
+node_modules/

@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python -m pip install fastapi \"uvicorn[standard]\" pydantic sqlalchemy aiomysql pymysql httpx python-dotenv chromadb)",
+      "Bash(python scripts/init_data.py)",
+      "Bash(python -c \"import fastapi; import chromadb; import sqlalchemy; print\\('All imports OK'\\)\")",
+      "Bash(python -m pip install fastapi uvicorn pydantic sqlalchemy pymysql httpx python-dotenv chromadb)",
+      "Bash(python -c \"import json; data=json.load\\(open\\('data/all_words.json','r',encoding='utf-8'\\)\\); print\\(f'all_words.json: {len\\(data\\)} words'\\)\")",
+      "Bash(python -m pip install aiomysql)",
+      "Bash(python -c ' *)",
+      "Bash(python -m pip install chromadb tiktoken aiosqlite -i https://pypi.tuna.tsinghua.edu.cn/simple)",
+      "Bash(python -c \"from backend.config import USE_SQLITE, DATA_DIR; print\\(f'USE_SQLITE={USE_SQLITE}'\\); print\\(f'DATA_DIR={DATA_DIR}'\\)\")",
+      "Bash(python -m uvicorn backend.main:app --host 0.0.0.0 --port 8000)",
+      "Bash(curl -s http://localhost:8000/health)",
+      "Bash(curl -s http://localhost:8000/)",
+      "Bash(netstat -ano)",
+      "Bash(taskkill /F /PID 25344)",
+      "Bash(python -c \"import httpx; r = httpx.get\\('https://api.dictionaryapi.dev/api/v2/entries/en/abandon', timeout=10\\); print\\(r.json\\(\\)[0]['word']\\); print\\(r.json\\(\\)[0]['phonetics'][0]\\)\")",
+      "Bash(python scripts/generate_kaoyan_wordbank.py --no-api)",
+      "Bash(python scripts/import_user_wordlist.py --file data/kaoyan.json --skip-chroma)"
+    ]
+  }
+}

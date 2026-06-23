@@ -1,0 +1,67 @@
+[
+  {
+    "word": "ambiguous",
+    "phonetic_uk": "/æmˈbɪɡjuəs/",
+    "phonetic_us": "/æmˈbɪɡjuəs/",
+    "definition": "[{\"pos\":\"adj.\",\"meaning\":\"模棱两可的；含糊不清的；引起歧义的\"}]",
+    "exam_type": "cet6",
+    "category": "core",
+    "frequency": 3,
+    "etymology": "{\"root\":\"ambi-\",\"affix\":[\"-uous(形容词后缀)\"],\"explanation\":\"ambi-(两边) + 拉丁语agere(驱动) → 往两边驱动 → 模棱两可的。前缀ambi-表示\"两、两边\"：ambiguous(两边都有可能的)、ambivalent(矛盾情感的)\"}",
+    "example_sentences": "[{\"en\":\"The wording of the agreement is ambiguous.\",\"cn\":\"协议的措辞含糊不清。\",\"source\":\"六级真题\"},{\"en\":\"His role in the project is somewhat ambiguous.\",\"cn\":\"他在项目中的角色有些模糊。\",\"source\":\"六级真题\"}]",
+    "synonyms": "[\"vague\",\"obscure\",\"unclear\",\"equivocal\"]",
+    "antonyms": "[\"clear\",\"unambiguous\",\"explicit\",\"definite\"]"
+  },
+  {
+    "word": "bureaucracy",
+    "phonetic_uk": "/bjʊəˈrɒkrəsi/",
+    "phonetic_us": "/bjʊˈrɑːkrəsi/",
+    "definition": "[{\"pos\":\"n.\",\"meaning\":\"官僚主义；官僚机构；繁文缛节\"}]",
+    "exam_type": "cet6",
+    "category": "core",
+    "frequency": 3,
+    "etymology": "{\"root\":\"bureau/cracy\",\"affix\":[\"-cracy(统治)\"],\"explanation\":\"bureau(办公桌→政府机构) + cracy(统治) → 官僚统治 → 官僚主义。同后缀词：democracy(民主)、aristocracy(贵族统治)\"}",
+    "example_sentences": "[{\"en\":\"The company was stifled by bureaucracy.\",\"cn\":\"公司被官僚主义扼杀了。\",\"source\":\"六级真题\"},{\"en\":\"We need to cut through the bureaucracy.\",\"cn\":\"我们需要突破这些繁文缛节。\",\"source\":\"六级真题\"}]",
+    "synonyms": "[\"red tape\",\"officialdom\",\"administration\"]",
+    "antonyms": "[\"efficiency\",\"flexibility\"]"
+  },
+  {
+    "word": "consolidate",
+    "phonetic_uk": "/kənˈsɒlɪdeɪt/",
+    "phonetic_us": "/kənˈsɑːlɪdeɪt/",
+    "definition": "[{\"pos\":\"v.\",\"meaning\":\"巩固；加强；合并；使联合\"}]",
+    "exam_type": "cet6",
+    "category": "core",
+    "frequency": 4,
+    "etymology": "{\"root\":\"solid\",\"affix\":[\"con-(共同)\",\"-ate(动词后缀)\"],\"explanation\":\"con-(一起) + solid(坚固) + -ate → 使一起变坚固 → 巩固、合并。核心词根是solid(固体、坚固)\"}",
+    "example_sentences": "[{\"en\":\"We need to consolidate what we have learned.\",\"cn\":\"我们需要巩固已学知识。\",\"source\":\"六级真题\"},{\"en\":\"The two companies consolidated to form a larger corporation.\",\"cn\":\"两家公司合并成一个更大的企业。\",\"source\":\"六级真题\"}]",
+    "synonyms": "[\"strengthen\",\"reinforce\",\"merge\",\"unite\"]",
+    "antonyms": "[\"weaken\",\"separate\",\"divide\"]"
+  },
+  {
+    "word": "deteriorate",
+    "phonetic_uk": "/dɪˈtɪəriəreɪt/",
+    "phonetic_us": "/dɪˈtɪriəreɪt/",
+    "definition": "[{\"pos\":\"v.\",\"meaning\":\"恶化；变坏；退化\"}]",
+    "exam_type": "cet6",
+    "category": "core",
+    "frequency": 4,
+    "etymology": "{\"root\":\"deterior\",\"affix\":[\"-ate(动词后缀)\"],\"explanation\":\"源自拉丁语deterior(更差的) + -ate → 变得更差 → 恶化。这是一个不及物动词，注意与aggravate(加重，及物动词）的区别\"}",
+    "example_sentences": "[{\"en\":\"His health deteriorated rapidly.\",\"cn\":\"他的健康状况急剧恶化。\",\"source\":\"六级真题\"},{\"en\":\"The political situation has deteriorated.\",\"cn\":\"政治局势恶化了。\",\"source\":\"六级真题\"}]",
+    "synonyms": "[\"worsen\",\"decline\",\"degenerate\",\"degrade\"]",
+    "antonyms": "[\"improve\",\"ameliorate\",\"recover\"]"
+  },
+  {
+    "word": "exacerbate",
+    "phonetic_uk": "/ɪɡˈzæsəbeɪt/",
+    "phonetic_us": "/ɪɡˈzæsərbeɪt/",
+    "definition": "[{\"pos\":\"v.\",\"meaning\":\"加剧；使恶化；使加重\"}]",
+    "exam_type": "cet6",
+    "category": "core",
+    "frequency": 3,
+    "etymology": "{\"root\":\"acerb\",\"affix\":[\"ex-(向外)\",\"-ate(动词后缀)\"],\"explanation\":\"ex-(向外、加强) + acerb(苦涩、尖锐) + -ate → 使更加尖锐 → 加剧、恶化。与exacerbate相比，deteriorate是不及物(自身恶化)，exacerbate是及物(使...恶化)\"}",
+    "example_sentences": "[{\"en\":\"The economic crisis exacerbated social tensions.\",\"cn\":\"经济危机加剧了社会紧张。\",\"source\":\"六级真题\"},{\"en\":\"His angry remark only exacerbated the conflict.\",\"cn\":\"他愤怒的言论只会加剧冲突。\",\"source\":\"六级真题\"}]",
+    "synonyms": "[\"worsen\",\"aggravate\",\"intensify\",\"compound\"]",
+    "antonyms": "[\"alleviate\",\"mitigate\",\"ease\",\"relieve\"]"
+  }
+]
