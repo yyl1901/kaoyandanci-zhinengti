@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python虚拟环境
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# 缓存、日志
+*.log
+*.tmp
